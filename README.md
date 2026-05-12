@@ -57,9 +57,14 @@ I craft intelligent solutions at the intersection of **data science**, **machine
 
 <div align="center">
 
+### 🔥 Contribution Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mya404&theme=radical&hide_border=true&stroke=00D9FF)
 
+### 💻 Language Distribution
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mya404&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mya404&theme=radical&hide_border=true&show_icons=true&count_private=true)
 
 </div>
 
@@ -75,6 +80,18 @@ I craft intelligent solutions at the intersection of **data science**, **machine
 - 🔍 Deep expertise in **deep learning architectures** and optimization
 - 🌐 Full-stack developer comfortable with **scalable systems**
 - 📚 Continuous learner & contributor to **open-source**
+- 🏆 Version control expert with **clean Git workflows**
+
+</div>
+
+---
+
+## 📈 GitHub Repository Insights
+
+<div align="center">
+
+![GitHub followers](https://img.shields.io/github/followers/mya404?style=social)
+![GitHub stars](https://img.shields.io/badge/dynamic/json?style=social&color=179fa3&label=stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mya404)
 
 </div>
 
@@ -88,6 +105,17 @@ I craft intelligent solutions at the intersection of **data science**, **machine
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mya404)
+
+</div>
+
+---
+
+## 🎯 Recent Activity
+
+<div align="center">
+
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=mya404&theme=radical&hide_border=true&bg_color=0D1117)
 
 </div>
 
