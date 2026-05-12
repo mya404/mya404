@@ -10,15 +10,6 @@
 
 ---
 
-## 🚀 About Me
-
-- 🧠 Passionate about **AI & Machine Learning**
-- 🎓 **CS Graduate Student** pushing boundaries in tech
-- 💻 Problem solver focused on **practical solutions**
-- 🌟 Love collaborating on **innovative projects**
-
----
-
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
