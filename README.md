@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hey, I'm mya404!
+# 👋🏻 Hey, I'm mya404!
 
 ### **AI Developer | CS Graduate Student**
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## ⚓️ Tech Stack & Tools
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 📫 Connect With Me
+## 🔄 Connect With Me
 
 <div align="center">
 
@@ -51,6 +51,6 @@
 
 <div align="center">
 
-### 💬 Let's Build Something Amazing Together! 🚀
+###  Let's Build Something Amazing Together! 
 
 </div>
